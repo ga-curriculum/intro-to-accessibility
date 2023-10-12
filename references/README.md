@@ -6,7 +6,7 @@
 
 Links from lessons:
 
-- [tktk descriptive name of link]()
+- [Four main accessibility principles](https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
 
 - [tktk descriptive name of link]()
 
