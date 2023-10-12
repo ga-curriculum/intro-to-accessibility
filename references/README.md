@@ -6,8 +6,10 @@
 
 Links from lessons:
 
-- [tktk descriptive name of link]()
+- [Four main accessibility principles](https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
 
-- [tktk descriptive name of link]()
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
 
-- [tktk descriptive name of link]()
+- [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
+- 
+- [Google Chrome Lighthouse extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
