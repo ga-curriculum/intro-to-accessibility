@@ -8,6 +8,6 @@ Links from lessons:
 
 - [Four main accessibility principles](https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
 
-- [tktk descriptive name of link]()
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
 
-- [tktk descriptive name of link]()
+- [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
