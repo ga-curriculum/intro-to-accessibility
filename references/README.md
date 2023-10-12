@@ -11,3 +11,5 @@ Links from lessons:
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
 
 - [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
+- 
+- [Google Chrome Lighthouse extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
