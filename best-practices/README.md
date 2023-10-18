@@ -16,6 +16,8 @@ Tips for writing good **alt text**.
 - **Be specific**. If the image contains text, the alt text should include the text.
 - **Be consistent**. Use the same alt text for the same image wherever it appears on your website.
 
+For more info, [this video](https://www.youtube.com/watch?v=flf2vS0IoRs) does a great job of explaining good alt text!
+
 Here is an example of good alt text:
 
 tktk hunter -- asset of a A black and white cat sitting on a red couch. or whatever you want, just change the alt text accordingly plz
