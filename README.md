@@ -14,12 +14,9 @@ Introduce the concept of accessibility in software engineering.
 | [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Learn what accessibility is, why it's important, and what disabilities it accommodates. |
 | [Accessibility Principles](./accessibility-principles/README.md) | tktk min | [tktk Link]() | The four accessibility principles: perceivable, operable, understandable, and robust. |
 | [Implementation Examples](./implementation-examples/README.md) | tktk min | [tktk Link]() | Demonstrate accessibility with real world examples. |
-| [Best Practices](./best-practices/README.md) |
- tktk min | [tktk Link]() | Understand best practices for accessibility, such as using alt text and ensuring adequate color contrast. |
-| [Testing for Accessibility](./testing-for-accessibility/README.md) |
-tktk min | [tktk Link]() | Discover different methods for testing for accessibility, including automated and manual testing. |
-| [Accessibility Resources](./accessibility-resources/README.md) |
-tktk min | [tktk Link]() | Explore accessibility resources, such as the W3C, WAI, and Chrome accessibility tools. |
+| [Best Practices](./best-practices/README.md) | tktk min | [tktk Link]() | Understand best practices for accessibility, such as using alt text and ensuring adequate color contrast. |
+| [Testing for Accessibility](./testing-for-accessibility/README.md) | tktk min | [tktk Link]() | Discover different methods for testing for accessibility, including automated and manual testing. |
+| [Accessibility Resources](./accessibility-resources/README.md) | tktk min | [tktk Link]() | Explore accessibility resources, such as the W3C, WAI, and Chrome accessibility tools. |
 |  **Total Module**                                        | tktk min | ---           | ---                 |
 
 ## Additional content 
