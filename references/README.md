@@ -15,3 +15,5 @@ Links from lessons:
 - [Google Chrome Lighthouse extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 
 - [Microsoft's Inclusivity Guidelines](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf)
+
+- [Writing Good Alt Text Video](https://www.youtube.com/watch?v=flf2vS0IoRs)
