@@ -26,3 +26,6 @@ To use Lighthouse, simply install the extension and click the icon in the Chrome
 
 Lighthouse will display a report of any problems it finds, along with the severity of the problem and instructions on how to fix it. You can use Lighthouse to scan your own web pages or the web pages of other websites. It's a great tool for identifying and fixing accessibility problems.
 
+## [Microsoft's Inclusivity Guidelines](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf)
+
+This pdf is jam packed with info about inclusivity and accessibility in design, although some of the content doesn't apply to software engineering. 
