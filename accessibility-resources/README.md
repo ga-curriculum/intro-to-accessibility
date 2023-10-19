@@ -8,7 +8,7 @@ Here are some final accessibility resources to help us make our sites and apps m
 
 ## [World Wide Web Consortium (W3C)](https://www.w3.org/)
 
-The World Wide Web Consortium (W3C) is an international community where member organizations, a full-time staff, and the public work together to develop Web standards. The W3C provides a variety of resources on web accessibility, including the WAI resources mentioned above.
+The World Wide Web Consortium (W3C) is an international community where member organizations, a full-time staff, and the public work together to develop Web standards. The W3C provides a variety of resources on web accessibility, including the WAI resources mentioned below.
 
 The W3C also provides a number of other resources on web development, such as tutorials, specifications, and tools. These resources can help us to learn more about web development and how to create accessible web applications.
 
