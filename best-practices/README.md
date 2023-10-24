@@ -20,7 +20,7 @@ For more info, [this video](https://www.youtube.com/watch?v=flf2vS0IoRs) does a 
 
 Here is an example of good alt text:
 
-tktk hunter -- asset of a A black and white cat sitting on a red couch. or whatever you want, just change the alt text accordingly plz
+![A black and white cat sitting on a red couch](./assets/alt-text.png)
 
 image: cat sitting on couch
 **Alt text**: A black and white cat sitting on a red couch. 

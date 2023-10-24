@@ -18,8 +18,6 @@ We can make our apps *perceivable* with text alternatives like:
 - **Chart descriptions**: A textual description of the data in a chart or graph. Chart descriptions help users to understand the data, even if they cannot see the chart or graph.
 - **Icon labels**: Text that describes the purpose of an icon. Icon labels are helpful for users who are blind or have low vision, as well as users who are not familiar with the icon.
 
-tktk hunter -- some relevant asset for icon labels or something that we haven't done in the concepts section already
-
 ### Design for adaptability
 Our content should be able to be presented in different ways without losing any important information or structure. This is important for people with disabilities, as well as people who are using different devices.
 
@@ -28,9 +26,6 @@ We can make our app adaptable by:
 - **Breaking up our text into smaller paragraphs and use headings and subheadings to organize our content.** This will make our content easier to read and scan.
 - **Using images and videos to illustrate our points.** However, we should be sure to provide alternative text for images and captions for videos so that people with disabilities can still access our content.
 - **Allowing users to increase the font size of our text.** This is helpful for people with low vision and other disabilities that make it difficult to read small text.
-
-tktk hunter -- asset of breaking up text into smaller paragraphs, or a side by side of a paragraph with or without an image to illustrate.
-
 
 ## Operable
 

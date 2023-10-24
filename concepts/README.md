@@ -28,7 +28,7 @@ We can accommodate visual disabilities with accessibility by:
 - Using **high contrast colors** between text and background so that text is easy to read for people with low vision.
 - Avoiding the use of color alone to convey information, so that people with color blindness can still understand the content. 
 
-tktk hunter -- asset on high/low color contrast to show how high contrast is better. or whatever you think would be impactful and visually helpful here
+![Hero image](./assets/contrast.png)
 
 ### Audio
 
@@ -39,7 +39,7 @@ We can accommodate audio disabilities with accessibility by:
 - Using closed captioning for videos so that people who are deaf or hard of hearing can understand the audio content.
 - Provide visual *and* audio feedback when a user interacts with an element like a button or link. 
 
-tktk hunter -- asset showing transcript or cc on a vid
+![Hero image](./assets/closed-captioning.png)
 
 ### Mobility
 Mobility disabilities can include limited mobility or paralysis. People with mobility disabilities may have difficulty moving around or using their hands and fingers.
@@ -48,7 +48,7 @@ We can accommodate mobility disabilities with accessibility by:
 - Providing keyboard navigation that allows users to navigate out website or app using only the keyboard, without having to use a mouse or other pointing device. 
 - Making sure our tap targets, like buttons and links, are large enough to be easily tapped with a finger or another pointing device.
 
-tktk hunter -- large vs small button? idk
+![Hero image](./assets/mobility.png)
 
 ### Cognitive
 Cognitive disabilities can include learning disabilities, intellectual disabilities, and autism spectrum disorder. People with cognitive disabilities may have difficulty with memory, attention, problem-solving, and communication.

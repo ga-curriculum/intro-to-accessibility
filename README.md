@@ -1,6 +1,4 @@
-# Intro to Accessibility
-
-![Hero image](./assets/tktkhero-main.png)
+# ![Intro to Accessibility](./assets/hero.png)
 
 ## Module overview
 
