@@ -1,6 +1,4 @@
-# Intro to Accessibility - Accessibility Principles
-
-![Hero image](./assets/hero.png)
+# ![Intro to Accessibility - Accessibility Principles](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be familiar with the four accessibility principles: perceivable, operable, understandable, and robust.
 
@@ -20,8 +18,6 @@ We can make our apps perceivable with text alternatives like:
 - **Chart descriptions:** Text descriptions of the data in a chart or graph. Chart descriptions help users to understand the data, even if they cannot see the chart or graph.
 - **Icon labels:** Text that describes the purpose of an icon. Icon labels are helpful for users who are blind, have low vision, or are unfamiliar with the icon.
 
-tktk hunter -- some relevant asset for icon labels or something that we haven't done in the concepts section already
-
 ### Design for adaptability
 
 Our content should be presented differently without losing any important information or structure. This is important for people with disabilities, as well as people who are using different devices.
@@ -34,7 +30,6 @@ We can make our app adaptable by:
 - Allowing users to increase the font size of our text. This is helpful for people with low vision and other disabilities that make it difficult to read small text.
 
 tktk hunter -- asset of breaking up text into smaller paragraphs or a side-by-side of a paragraph with or without an image to illustrate.
-
 
 ## Operable
 
