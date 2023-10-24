@@ -2,32 +2,38 @@
 
 ![Hero image](./assets/tktkhero-main.png)
 
-## Module overview
+## About
 
-Introduce the concept of accessibility in software engineering. 
+This module introduces the concept of accessibility in software engineering.
 
-## Content outline
+## Prerequisites
+
+tktk
+
+## Content
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [Setup](./setup/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Learn what accessibility is, why it's important, and what disabilities it accommodates. |
-| [Accessibility Principles](./accessibility-principles/README.md) | tktk min | [tktk Link]() | The four accessibility principles: perceivable, operable, understandable, and robust. |
-| [Implementation Examples](./implementation-examples/README.md) | tktk min | [tktk Link]() | Demonstrate accessibility with real world examples. |
-| [Best Practices](./best-practices/README.md) | tktk min | [tktk Link]() | Understand best practices for accessibility, such as using alt text and ensuring adequate color contrast. |
-| [Testing for Accessibility](./testing-for-accessibility/README.md) | tktk min | [tktk Link]() | Discover different methods for testing for accessibility, including automated and manual testing. |
-| [Accessibility Resources](./accessibility-resources/README.md) | tktk min | [tktk Link]() | Explore accessibility resources, such as the W3C, WAI, and Chrome accessibility tools. |
-|  **Total Module**                                        | tktk min | ---           | ---                 |
+| [Setup](./setup/README.md)                                         | -- | -- | -- |
+| [Concepts](./concepts/README.md)                                   | -- | -- | Learn what accessibility is, why it's important, and what disabilities it accommodates. |
+| [Accessibility Accomidataions](./accessibility-accommidations/README.md)   | -- | -- | Covers the different accessiblities we can provide accomidations for. |
+| [Accessibility Principles](./accessibility-principles/README.md)   | -- | -- | The four accessibility principles: perceivable, operable, understandable, and robust. |
+| [Best Practices](./best-practices/README.md)                       | -- | -- | Understand best practices for accessibility, such as using alt text and ensuring adequate color contrast. |
+| [Testing for Accessibility](./testing-for-accessibility/README.md) | -- | -- | Discover different methods for testing for accessibility, including automated and manual testing. |
+| [Accessibility Resources](./accessibility-resources/README.md)     | -- | -- | Explore accessibility resources, such as the W3C, WAI, and Chrome accessibility tools. |
+|  **Total Module**                                                  | -- | -- | -- |
 
-## Additional content 
+### Level Up content
+
+| Lesson | Video Time | Video | Topics Covered |
+| ------ |:----------:|:-----:| -------------- |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk |
+| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk |
+
+## References
 
 📖 [Reference Materials](./references/README.md)
-
-### 🚀 Level Up
-
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
 
 ## Internal resources
 
