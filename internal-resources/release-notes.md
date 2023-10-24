@@ -1,6 +1,6 @@
-# [tktk Module Name] - Release Notes
+# Intro to Accessibility - Release Notes
 
-![Hero image](../assets/tktkhero-secondary.png)
+![Hero image](../assets/hero.png)
 
 ## Version 1.0 - Updates from legacy content
 

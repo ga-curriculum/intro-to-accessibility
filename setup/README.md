@@ -1,4 +1,4 @@
-# ![Accessibility - Setup](./assets/tktkhero-main.png)
+# ![Intro to Accessibility - Setup](./assets/hero.png)
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
@@ -47,3 +47,4 @@ body {
 ```
 
 Open the `index.html` file in your browser. When you open the page, the background color should be the `lightgray` color specified above.
+

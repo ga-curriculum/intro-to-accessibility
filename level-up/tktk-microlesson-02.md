@@ -1,4 +1,4 @@
-# [tktk Module Name] - Level Up - tktk Microlesson Name
+# ![Intro to Accessibility - Level Up](./assets/hero.png)
 
 ![Hero image](./assets/hero.png)
 

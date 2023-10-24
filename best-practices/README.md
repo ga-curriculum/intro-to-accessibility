@@ -1,6 +1,4 @@
-# Intro to Accessibility - Best Practices
-
-![Hero image](./assets/hero.png)
+# ![Intro to Accessibility - Best Practices](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students understand best practices for accessibility, such as using alt text and ensuring adequate color contrast.
 
@@ -20,7 +18,7 @@ For more info, [this video](https://www.youtube.com/watch?v=flf2vS0IoRs) does a 
 
 Here is an example of good alt text:
 
-tktk hunter -- asset of a A black and white cat sitting on a red couch. or whatever you want, just change the alt text accordingly plz
+![A black and white cat sitting on a red couch](./assets/alt-text.png)
 
 Image: cat sitting on couch
 Alt text: A black and white cat sitting on a red couch. 
