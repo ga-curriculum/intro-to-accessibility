@@ -12,14 +12,17 @@ tktk
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [Setup](./setup/README.md)                                         | -- | -- | -- |
-| [Concepts](./concepts/README.md)                                   | -- | -- | Learn what accessibility is, why it's important, and what disabilities it accommodates. |
-| [Accessibility Accomidataions](./accessibility-accommidations/README.md)   | -- | -- | Covers the different accessiblities we can provide accomidations for. |
-| [Accessibility Principles](./accessibility-principles/README.md)   | -- | -- | The four accessibility principles: perceivable, operable, understandable, and robust. |
-| [Best Practices](./best-practices/README.md)                       | -- | -- | Understand best practices for accessibility, such as using alt text and ensuring adequate color contrast. |
-| [Testing for Accessibility](./testing-for-accessibility/README.md) | -- | -- | Discover different methods for testing for accessibility, including automated and manual testing. |
-| [Accessibility Resources](./accessibility-resources/README.md)     | -- | -- | Explore accessibility resources, such as the W3C, WAI, and Chrome accessibility tools. |
-|  **Total Module**                                                  | -- | -- | -- |
+| [Setup](./setup/README.md)                                           | -- | -- | --                                                                                                                |
+| [Concepts](./concepts/README.md)                                     | -- | -- | Learn what accessibility is, why it's important, and what disabilities it accommodates.                           |
+| [Visual Accomidataions](./visual-accommodations/README.md)           | -- | -- | Review the practices we can implement to provide accommodations to people with visual disabilities.                |
+| [Auditory Accomidataions](./auditory-accommodations/README.md)        | -- | -- | Review the practices we can implement to provide accommodations to people with auditory disabilities.              |
+| [Mobility Accomidataions](./mobility-accommodations/README.md)       | -- | -- | Review the practices we can implement to provide accommodations to people with mobility disabilities.              |
+| [Cognitive Accomidataions](./mobility-accommodations/README.md)      | -- | -- | Review the practices we can implement to provide accommodations to people with cognitive disabilities.             |
+| [Overlapping Accomidataions](./overlapping-accommodations/README.md) | -- | -- | Review the practices we can implement to provide accommodations to people with differing or multiple disabilities. |
+| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | The four accessibility principles: perceivable, operable, understandable, and robust.                             |
+| [Testing for Accessibility](./testing-for-accessibility/README.md)   | -- | -- | Discover different methods for testing for accessibility, including automated and manual testing.                 |
+| [Accessibility Resources](./accessibility-resources/README.md)       | -- | -- | Explore accessibility resources, such as the W3C, WAI, and Chrome accessibility tools.                            |
+|  **Total Module**                                                    | -- | -- | --                                                                                                                |
 
 ### Level Up content
 

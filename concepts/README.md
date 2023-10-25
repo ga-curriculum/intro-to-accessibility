@@ -6,6 +6,8 @@
 
 Accessibility means making digital products and services accessible to everyone, including people with disabilities. It means designing and developing products and services to allow everyone to use them, regardless of their abilities.
 
+To make content accessible we can accomidate people with visual, auditory, mobility, and cognitive disabilities. 
+
 ## Why is it important?
 
 Accessibility is important because it allows everyone to participate fully in society. When digital products and services are not accessible, people with disabilities are excluded. This can significantly impact their lives, preventing them from accessing education, employment, and essential services.

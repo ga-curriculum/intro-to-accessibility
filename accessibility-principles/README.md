@@ -12,11 +12,8 @@ Information and user interface components must be presented so all users can per
 
 We can make our apps perceivable with text alternatives like:
 
-- **Image alt text:** A short image description, that screen readers can parse. For example, instead of using the alt text "image of a cat," you could use the alt text "a black cat sitting on a red couch."
 - **Video captions:** Text that displays the audio content of a video. Captions are essential for users who are deaf or hard of hearing.
 - **Audio transcripts:** Written versions of the audio content of an audio recording. Transcripts benefit users who are deaf or hard of hearing, and users who prefer to read text rather than listen to audio.
-- **Chart descriptions:** Text descriptions of the data in a chart or graph. Chart descriptions help users to understand the data, even if they cannot see the chart or graph.
-- **Icon labels:** Text that describes the purpose of an icon. Icon labels are helpful for users who are blind, have low vision, or are unfamiliar with the icon.
 
 ### Design for adaptability
 
@@ -27,9 +24,6 @@ We can make our app adaptable by:
 - Using responsive design. This will ensure that our website looks good and functions well on all devices, regardless of screen size.
 - Breaking up our text into smaller paragraphs and use headings and subheadings to organize our content. This will make our content easier to read and scan.
 - Using images and videos to illustrate our points. However, we should provide alternative text for images and video captions so that people with disabilities can still access our content.
-- Allowing users to increase the font size of our text. This is helpful for people with low vision and other disabilities that make it difficult to read small text.
-
-tktk hunter -- asset of breaking up text into smaller paragraphs or a side-by-side of a paragraph with or without an image to illustrate.
 
 ## Operable
 
@@ -52,7 +46,6 @@ Here are some tips for avoiding triggering seizures or other physical reactions 
 - Avoid using flashing lights, flickering images, or certain patterns in our content.
 - If we must use flashing lights or flickering images, ensure they do not flash more than three times per second and are not too bright.
 - Provide a way for users to turn off flashing lights and flickering images if necessary.
-
 
 ### Input modalities
 
@@ -79,9 +72,6 @@ People have different reading abilities, and poorly formatted or written text is
 We can make our apps more readable by:
 
 - Using clear and concise language. Avoid using jargon or technical terms that our audience may not understand.
-- Using a readable font size and line height. Avoid using fonts that are too small or too much line spacing.
-- Using high-contrast colors for our text and background.
-- Avoid using all caps or italics for large blocks of text.
 
 ### Predictable
 
@@ -91,10 +81,10 @@ By doing so, we enable users to learn how to use and navigate our site quickly a
 
 Doing the following can help us make our sites predictable:
 
--  Using a consistent layout and design throughout our website. This will help users learn where to find things and understand how our website works.
--  Using clear and consistent labels for all interactive elements. This will help users to understand what each element does and how to interact with it.
--  Ensuring that all interactive elements behave predictably. For example, when a user clicks a button, they should expect something to happen, such as the page changing or a new window opening.
--  Avoid using unexpected or confusing elements on our website. For example, we should avoid hidden menus or pop-up ads that may startle or annoy users.
+- Using a consistent layout and design throughout our website. This will help users learn where to find things and understand how our website works.
+- Using clear and consistent labels for all interactive elements. This will help users to understand what each element does and how to interact with it.
+- Ensuring that all interactive elements behave predictably. For example, when a user clicks a button, they should expect something to happen, such as the page changing or a new window opening.
+- Avoid using unexpected or confusing elements on our website. For example, we should avoid hidden menus or pop-up ads that may startle or annoy users.
 
 ### Input assistance
 
@@ -126,6 +116,4 @@ We can achieve browser compatibility by:
 
 And we can achieve assistive technology compatibility by:
 
-- Providing text alternatives for all images and other non-text content. This will allow users who are using screen readers or other assistive technologies to access and understand our content.
 - Using semantic HTML elements to mark up our content. This will help assistive technologies understand the structure and meaning of our content.
-- Avoid using CAPTCHAs and other forms of authentication that are not accessible to users with disabilities.
