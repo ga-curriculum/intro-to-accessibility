@@ -13,4 +13,3 @@ We can accommodate audio disabilities with accessibility by:
 - Providing transcripts of audio content so that people who are deaf or hard of hearing can access the information.
 - Using closed captioning for videos so that people who are deaf or hard of hearing can understand the audio content.
 - Provide visual and audio feedback when a user interacts with an element like a button or link.
-

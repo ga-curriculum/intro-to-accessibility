@@ -1,7 +1,5 @@
 # ![Intro to Accessibility - Visual Accommodations](./assets/hero.png)
 
-
-
 **Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to provide accommodations to people with visual disabilities.
 
 ## What are visual disabilities?
@@ -24,13 +22,20 @@ Writing good alt text is difficult for many reasons, but primarily because alt t
 
 Although all of these won't apply in all conditions, here are some tips for writing good alt text:
 
-- **Be concise.** The alt text should be as short as possible but still descriptive enough to convey the image's meaning.
-- **Avoid using words like image or photo.** Screen readers will already announce that the content is an image.
-- **Be specific.** If the image contains text, the alt text should include it if it is relevant to the context in which the image is presented.
-- **Be consistent.** Use the same alt text for the same image wherever it appears on your website unless the context in which the image is used calls for deviation.
-- **Convey emotion.** Is there an emotional meaning behind an image? Is something dramatic or exciting happening in an image? Your alt text should try to capture that emotion if it's relevant.
+- Be concise. The alt text should be as short as possible but still descriptive enough to convey the image's meaning.
+- Avoid using words like image or photo. Screen readers will already announce that the content is an image.
+- Be specific. If the image contains text, the alt text should include it if it is relevant to the context in which the image is presented.
+- Be consistent. Use the same alt text for the same image wherever it appears on your website unless the context in which the image is used calls for deviation.
+- Convey emotion. Is there an emotional meaning behind an image? Is something dramatic or exciting happening in an image? Your alt text should try to capture that emotion if it's relevant.
 
 For more info, [this video from Google](https://www.youtube.com/watch?v=flf2vS0IoRs) does a great job explaining how to write good alt text.
+
+### Who this benefits
+
+This has benefits for visually impaired users but has benefits for others as well:
+
+- Low bandwidth/low connectivity users. Sometimes, images may not load, and alt text can act as a placeholder.
+- Users finding images through a search engine. Search engines use alt text to understand what an image is.
 
 ### How to add alt text to an image
 
@@ -63,9 +68,17 @@ Color contrast is the difference between the brightness of two colors. High colo
 
 The [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) publishes the [Web Content Accessibility Guidelines (WCAG)](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines), which companies and governments often reference to help implement them implement accessibility standards on the web. One of the areas they set standards for is color contrast.
 
+### Who this benefits
+
+Again, this has benefits for visually impaired users but has benefits for others as well:
+
+- People who are not visually impaired. Even users who are not visually impaired will find low-contrast visual elements offputting.
+- People using devices outdoors. Sunlight makes many screens challenging to read. High contrast can help maintain visibility in the outdoors.
+- People using low-quality displays. Monitors with truly high contrast are relatively modern and have not permeated the entire display market.
+
 ### WCAG color contrast requirements
 
-WCAG 2.0 level AA (the easiest to meet requirement) specifies a minimum color contrast ratio of 4.5:1 for normal text and 3:1 for large text (24px or larger). There are many online tools to check the contrast between two colors. Governments around the world use these guidelines to evaluate sufficient color accessibility. [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. Both [Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in dev tools to evaluate a website and flag any inaccessible text found on it as well.
+WCAG 2.0 level AA (the easiest to meet requirement) specifies a minimum color contrast ratio of 4.5:1 for normal text and 3:1 for large text (24px or larger). There are many online tools to check the contrast between two colors. [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. Both [Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in dev tools to evaluate a website and flag any inaccessible text found on it as well.
 
 There is a recurring theme when implementing accessible content: simpler is almost always better. Black text on a white background or white text on a black background will always meet these contrast requirements. That said, you're not restricted from doing something unique. Just ensure it meets the guidelines.
 
@@ -102,6 +115,14 @@ Don't forget you can also opt for a simpler color palette.
 
 While color can help signal preferred actions or potential danger to users, we can't rely on it as the only indicator. 
 
-Take links, for example. Links have different colors associated with them, but they're also typically underlined. This underlining helps people with blue/black and purple/black color blindness still distinguish between regular text and links.
+Take links, for example. Links have different colors associated with them by default, but they're also typically underlined. This underlining helps people with blue/black and purple/black color blindness still distinguish between regular text and links.
 
 Beyond this, underlined links are a widespread and clear pattern used across the internet. By adhering to this design, your users will immediately recognize how to navigate your site, even if they've never visited it.
+
+### Who this benefits
+
+Beyond benefitting visually impaired users, this also helps:
+
+- People who are not visually impaired. Following established patterns helps all users find familiar landmarks in your application.
+- People using devices outdoors or low-quality displays. Sunlight or bad display technology can make colors look washed out. Using signals beyond color increases the visibility of elements.
+- A global audience. Cultural interpretations of color can vary, so using language other than color to communicate may be necessary for a site to be usable globally.

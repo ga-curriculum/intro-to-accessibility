@@ -1,7 +1,5 @@
 # ![Intro to Accessibility - Mobility Accommodations](./assets/hero.png)
 
-
-
 **Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to provide accommodations to people with mobility disabilities.
 
 ## What are mobility disabilities?
