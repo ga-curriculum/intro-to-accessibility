@@ -1,8 +1,6 @@
-# Intro to Accessibility - Auditory Accommodations
+# ![Intro to Accessibility - Auditory Accommodations](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this lesson, students will be familiar with basic auditory accomidations.
+**Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to provide accommodations to people with auditory disabilities.
 
 ## What are auditory disabilities?
 

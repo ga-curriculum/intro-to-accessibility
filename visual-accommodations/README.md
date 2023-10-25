@@ -1,8 +1,8 @@
-# Intro to Accessibility - Visual Accommodations
+# ![Intro to Accessibility - Visual Accommodations](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be familiar with the four accessibility principles: perceivable, operable, understandable, and robust.
+
+**Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to provide accommodations to people with visual disabilities.
 
 ## What are visual disabilities?
 
@@ -10,7 +10,7 @@ Visual disabilities can include blindness, low vision, and color blindness. Peop
 
 ## Accommodating visual disabilities
 
-We can use these techniquest to accommodate visual disabilities:
+We can use these techniques to accommodate visual disabilities:
 
 - Provide alt text for images so that people who use screen readers can understand what the images communicate.
 - Use high-contrast colors between text and background to make text easier to read.
@@ -65,7 +65,7 @@ The [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) publishes the
 
 ### WCAG color contrast requirements
 
-WCAG 2.0 level AA (the easiest to meet requirement) specifies a minimum color contrast ratio of 4.5:1 for normal text and 3:1 for large text (24px or larger). There are many online tools to check the contrast between two colors. [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. Governments around the world use these guidelines to evaluate sufficient color accessibility.
+WCAG 2.0 level AA (the easiest to meet requirement) specifies a minimum color contrast ratio of 4.5:1 for normal text and 3:1 for large text (24px or larger). There are many online tools to check the contrast between two colors. Governments around the world use these guidelines to evaluate sufficient color accessibility. [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. Both [Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in dev tools to evaluate a website and flag any inaccessible text found on it as well.
 
 There is a recurring theme when implementing accessible content: simpler is almost always better. Black text on a white background or white text on a black background will always meet these contrast requirements. That said, you're not restricted from doing something unique. Just ensure it meets the guidelines.
 

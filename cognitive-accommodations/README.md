@@ -1,8 +1,6 @@
-# Intro to Accessibility - Cognitive Accommodations
+# ![Intro to Accessibility - Cognitive Accommodations](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this lesson, students will be familiar with basic cognitive accomidations.
+**Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to provide accommodations to people with cognitive disabilities.
 
 ## What are cognitive disabilities?
 
