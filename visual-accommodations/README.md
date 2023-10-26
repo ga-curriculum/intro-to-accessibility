@@ -18,6 +18,8 @@ We can use these techniques to accommodate visual disabilities:
 
 Alt text is a short image description that screen readers can parse. Providing alt text for all images, including decorative images such as logos or icons, is vital.
 
+tktk Hunter, can you add an example of a broken image here to relate this  to students that haven't encountered alt text before? get with me (David) on how to represent this.
+
 Writing good alt text is difficult for many reasons, but primarily because alt text tries to capture what is important about an image in writing. However, the important elements in an image can change depending on the context in which the image is used. Sometimes, you won't know the context in which an image will be used; that's okay.
 
 Although all of these won't apply in all conditions, here are some tips for writing good alt text:
@@ -42,27 +44,23 @@ This has benefits for visually impaired users but has benefits for others as wel
 You can add alt text to an image by adding the `alt` attribute inside of an `<img>` element, as shown below:
 
 ```HTML
-<img src="./image-source" alt="Add alt text here!">
+<img 
+  src="./image-source" 
+  alt="Add alt text here! The alt text should be as short as possible but still descriptive enough to convey the image's meaning."
+>
 ```
 
 ### 🧠 You Do
 
 ![A stylized illustration of a black cat and a white cat on a bold red couch against a minimalist dark background.](./assets/alt-text.png)
 
-Given the above image, without any context, we might write alt text like this:
+Write alt text for the above image without consideration to the context the image will be used in.
 
-A stylized illustration of a black cat and a white cat on a bold red couch against a minimalist dark background.
-
-For this activity, you will rewrite the alt text for the above image so that it is more applicable for use in these contexts:
-
-1. The image appears below the headline: ***Cats return to owner after being missing for eight years***.
-2. The image is used on an auction site selling furniture.
-
-You will have two different sets of alt text after this activity.
+Consider the colors in the image, the emotional tone of the image, the style of the image, and any other details you think might be relevant.
 
 ## Color contrast
 
-![Two elements shown, one has low contrast between the off-white background and the white foreground text. Another has high contrast between the blue background and white foreground text.](./assets/contrast.png)
+![Two elements shown, one has low contrast between the off-white background and the white foreground text that reads Low Contrast. Another has high contrast between the blue background and white foreground text that reads High Contrast.](./assets/contrast.png)
 
 Color contrast is the difference between the brightness of two colors. High color contrast makes text and images easier to read and comprehend. 
 
@@ -78,7 +76,7 @@ Again, this has benefits for visually impaired users but has benefits for others
 
 ### WCAG color contrast requirements
 
-WCAG 2.0 level AA (the easiest to meet requirement) specifies a minimum color contrast ratio of 4.5:1 for normal text and 3:1 for large text (24px or larger). There are many online tools to check the contrast between two colors. [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. Both [Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in dev tools to evaluate a website and flag any inaccessible text found on it as well.
+WCAG 2.0 level AA (the easiest to meet requirement) specifies a minimum color contrast ratio of 4.5:1 for normal text and 3:1 for large text (24px or larger). There are many online tools to check the contrast between two colors. [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. Both [Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in tools to evaluate a website and flag any inaccessible text found on it as well.
 
 There is a recurring theme when implementing accessible content: simpler is almost always better. Black text on a white background or white text on a black background will always meet these contrast requirements. That said, you're not restricted from doing something unique. Just ensure it meets the guidelines.
 

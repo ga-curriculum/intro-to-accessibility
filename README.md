@@ -12,25 +12,22 @@ tktk
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [Setup](./setup/README.md)                                           | -- | -- | --                                                                                                                |
-| [Concepts](./concepts/README.md)                                     | -- | -- | Learn what accessibility is, why it's important, and what disabilities it accommodates.                           |
+| [Setup](./setup/README.md)                                           | -- | -- | --                                                                                                                 |
+| [Concepts](./concepts/README.md)                                     | -- | -- | Learn what accessibility is, why it's important, and what disabilities it accommodates.                            |
 | [Visual Accommodations](./visual-accommodations/README.md)           | -- | -- | Review the practices we can implement to provide accommodations to people with visual disabilities.                |
-| [Auditory Accommodations](./auditory-accommodations/README.md)        | -- | -- | Review the practices we can implement to provide accommodations to people with auditory disabilities.              |
+| [Auditory Accommodations](./auditory-accommodations/README.md)       | -- | -- | Review the practices we can implement to provide accommodations to people with auditory disabilities.              |
 | [Mobility Accommodations](./mobility-accommodations/README.md)       | -- | -- | Review the practices we can implement to provide accommodations to people with mobility disabilities.              |
-| [Cognitive Accommodations](./mobility-accommodations/README.md)      | -- | -- | Review the practices we can implement to provide accommodations to people with cognitive disabilities.             |
+| [Cognitive Accommodations](./cognitive-accommodations/README.md)     | -- | -- | Review the practices we can implement to provide accommodations to people with cognitive disabilities.             |
 | [Overlapping Accommodations](./overlapping-accommodations/README.md) | -- | -- | Review the practices we can implement to provide accommodations to people with differing or multiple disabilities. |
-| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | The four accessibility principles: perceivable, operable, understandable, and robust.                             |
-| [Testing for Accessibility](./testing-for-accessibility/README.md)   | -- | -- | Discover different methods for testing for accessibility, including automated and manual testing.                 |
-| [Accessibility Resources](./accessibility-resources/README.md)       | -- | -- | Explore accessibility resources, such as the W3C, WAI, and Chrome accessibility tools.                            |
-|  **Total Module**                                                    | -- | -- | --                                                                                                                |
+| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | The four accessibility principles: perceivable, operable, understandable, and robust.                              |
+| [Testing for Accessibility](./testing-for-accessibility/README.md)   | -- | -- | Discover different methods for testing for accessibility, including automated and manual testing.                  |
+|  **Total Module**                                                    | -- | -- | --                                                                                                                 |
 
 ### Level Up content
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk |
+| [Testing for Accessibility](./level-up/testing-for-accessibility.md) | -- | -- | Discover different methods for testing for accessibility, including automated and manual testing. |
 
 ## References
 
