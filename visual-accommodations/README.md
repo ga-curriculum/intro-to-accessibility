@@ -18,7 +18,9 @@ We can use these techniques to accommodate visual disabilities:
 
 Alt text is a short image description that screen readers can parse. Providing alt text for all images, including decorative images such as logos or icons, is vital.
 
-tktk Hunter, can you add an example of a broken image here to relate this  to students that haven't encountered alt text before? get with me (David) on how to represent this.
+![Broken Image](./assets/broken-image.png)
+
+When an image can't be loaded you might see alt text like the example above. If the image was visible, it would presumably show a blue car.
 
 Writing good alt text is difficult for many reasons, but primarily because alt text tries to capture what is important about an image in writing. However, the important elements in an image can change depending on the context in which the image is used. Sometimes, you won't know the context in which an image will be used; that's okay.
 

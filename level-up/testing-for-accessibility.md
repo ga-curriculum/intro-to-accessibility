@@ -1,4 +1,4 @@
-# ![Intro to Accessibility - Level Up - Testing for Accessibility](./assets/hero.png)
+# ![Intro to Accessibility - Level Up - Testing for Accessibility](./assets/hero-testing-for-accessibility.png)
 
 **Learning objective:** By the end of this lesson, students will discover different methods for testing for accessibility, including automated and manual testing.
 

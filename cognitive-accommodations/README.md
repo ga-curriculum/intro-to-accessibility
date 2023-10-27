@@ -16,7 +16,7 @@ We can accommodate cognitive disabilities with accessibility with these techniqu
 - Provide clear and concise feedback to users when they interact with our interface. This feedback can be visual or auditory and will help users confirm that their actions have the desired effect.
 - Use a consistent layout and design throughout our website. This will help users learn where to find things and understand how our website works. It's even better for us to follow common patterns established by other sites on the internet.
 
-tktk Hunter, can you build an image that is a bad example of this? Something with a ton of colors, kinda chaotic?
+![Bad Web Design](./assets/bad-web-design.png)
 
 ### Who this benefits
 
