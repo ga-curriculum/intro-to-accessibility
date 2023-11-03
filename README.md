@@ -20,7 +20,6 @@ tktk
 | [Cognitive Accommodations](./cognitive-accommodations/README.md)     | -- | -- | Review the practices we can implement to provide accommodations to people with cognitive disabilities.             |
 | [Overlapping Accommodations](./overlapping-accommodations/README.md) | -- | -- | Review the practices we can implement to provide accommodations to people with differing or multiple disabilities. |
 | [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | The four accessibility principles: perceivable, operable, understandable, and robust.                              |
-| [Testing for Accessibility](./testing-for-accessibility/README.md)   | -- | -- | Discover different methods for testing for accessibility, including automated and manual testing.                  |
 |  **Total Module**                                                    | -- | -- | --                                                                                                                 |
 
 ### Level Up content
