@@ -2,7 +2,7 @@
 
 ## About
 
-This module provides a foundational understanding of digital accessibility with a focus on the significance of creating inclusive web environments. It outlines the necessity of accessibility and the diverse types of disabilities it serves, including visual, auditory, mobility, and cognitive impairments. Each section is dedicated to understanding and implementing specific accommodations to enhance accessibility for each disability type. The content is aimed at beginners, but is suitable for anyone wanting foundational knowledge on this critical topic. 
+This module lays the groundwork for understanding digital accessibility, emphasizing the importance of fostering inclusive web spaces. It addresses the essential nature of accessibility and the spectrum of individuals it assists, including those with visual, hearing, motor, and cognitive disabilities. The module includes dedicated sections to comprehending and applying accommodations to improve access for people with specific types of disabilities. While designed for beginners, the material suitable for anyone seeking a fundamental comprehension of this vital subject.
 
 ## Prerequisites
 
