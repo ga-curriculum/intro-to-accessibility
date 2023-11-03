@@ -1,6 +1,6 @@
 # ![Intro to Accessibility - Mobility Accommodations](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to provide accommodations to people with mobility disabilities.
+**Learning objective:** By the end of this lesson students will be able to apply techniques to make web content accessible for individuals with mobility disabilities, including keyboard navigation and responsive design principles.
 
 
 

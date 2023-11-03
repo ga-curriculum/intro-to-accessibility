@@ -1,6 +1,6 @@
 # ![Intro to Accessibility - Concepts](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will know what accessibility is, why it's important, and what disabilities it accommodates.
+**Learning objective:** By the end of this lesson students will be able to evaluate the role of accessibility in digital product design, recognizing its impact on social inclusion and the accommodation of various disabilities.
 
 ## What is accessibility?
 

@@ -1,6 +1,6 @@
 # ![Intro to Accessibility - Auditory Accommodations](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to provide accommodations to people with auditory disabilities.
+**Learning objective:** By the end of this lesson students will be able to accommodate users with auditory disabilities by implementing transcripts, closed captioning, and visual feedback.
 
 ## What are auditory disabilities?
 

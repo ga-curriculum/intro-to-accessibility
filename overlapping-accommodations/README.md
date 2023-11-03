@@ -1,6 +1,6 @@
 # ![Intro to Accessibility - Overlapping Accommodations](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to accommodate people with differing or multiple disabilities.
+**Learning objective:** By the end of this lesson students will be able to implement inclusive design strategies that address multiple disabilities, emphasizing minimized animation, concise communication, and predictable interaction patterns.
 
 ## Accommodating multiple disabilities
 

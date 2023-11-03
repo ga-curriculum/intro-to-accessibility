@@ -2,32 +2,33 @@
 
 ## About
 
-This module introduces the concept of accessibility in software engineering.
+This module provides a foundational understanding of digital accessibility with a focus on the significance of creating inclusive web environments. It outlines the necessity of accessibility and the diverse types of disabilities it serves, including visual, auditory, mobility, and cognitive impairments. Each section is dedicated to understanding and implementing specific accommodations to enhance accessibility for each disability type. The content is aimed at beginners, but is suitable for anyone wanting foundational knowledge on this critical topic. 
 
 ## Prerequisites
 
-tktk
+- Intro to HTML
+- Intro to CSS
 
 ## Content
 
-| Lesson | Video Time | Video | Topics Covered |
-| ------ |:----------:|:-----:| -------------- |
-| [Setup](./setup/README.md)                                           | -- | -- | --                                                                                                                 |
-| [Concepts](./concepts/README.md)                                     | -- | -- | Learn what accessibility is, why it's important, and what disabilities it accommodates.                            |
-| [Visual Accommodations](./visual-accommodations/README.md)           | -- | -- | Review the practices we can implement to provide accommodations to people with visual disabilities.                |
-| [Auditory Accommodations](./auditory-accommodations/README.md)       | -- | -- | Review the practices we can implement to provide accommodations to people with auditory disabilities.              |
-| [Mobility Accommodations](./mobility-accommodations/README.md)       | -- | -- | Review the practices we can implement to provide accommodations to people with mobility disabilities.              |
-| [Cognitive Accommodations](./cognitive-accommodations/README.md)     | -- | -- | Review the practices we can implement to provide accommodations to people with cognitive disabilities.             |
-| [Overlapping Accommodations](./overlapping-accommodations/README.md) | -- | -- | Review the practices we can implement to provide accommodations to people with differing or multiple disabilities. |
-| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | The four accessibility principles: perceivable, operable, understandable, and robust.                              |
-|  **Total Module**                                                    | -- | -- | --                                                                                                                 |
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [Setup](./setup/README.md)                                           | -- | -- | Setting up the development environment     |
+| [Concepts](./concepts/README.md)                                     | -- | -- | Defining accessibility and its significance in digital inclusion                            |
+| [Visual Accommodations](./visual-accommodations/README.md)           | -- | -- | Inclusive design strategies: alt text, color contrast, non-color indicators                |
+| [Auditory Accommodations](./auditory-accommodations/README.md)       | -- | -- | Inclusive design strategies: transcripts, closed captioning, visual feedback              |
+| [Mobility Accommodations](./mobility-accommodations/README.md)       | -- | -- | Inclusive design strategies: keyboard navigation, large interactive elements, clear labels, minimal drag interactions              |
+| [Cognitive Accommodations](./cognitive-accommodations/README.md)     | -- | -- | Inclusive design strategies: clear language, simplified UI, multi-modal content, explicit feedback, consistent design             |
+| [Overlapping Accommodations](./overlapping-accommodations/README.md) | -- | -- | Inclusive design strategies: minimizing animation, brevity in communication, and predictability in user interface design |
+| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | Core accessibility principles: perceivable, operable, understandable, and robust.      |
+|  **Total content**                                                   | -- | -- |             |
 
 ### Level Up content
 
-| Lesson | Video Time | Video | Topics Covered |
-| ------ |:----------:|:-----:| -------------- |
-| [Testing for Accessibility](./level-up/testing-for-accessibility.md) | -- | -- | Discover different methods for testing for accessibility, including automated and manual testing. |
-
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [Testing for Accessibility](./level-up/testing-for-accessibility.md) | -- | -- | Accessibility testing: automated tools and manual evaluation methods. |
+|  **Total Level Up content**           | -- | -- |                             |
 ## References
 
 📖 [Reference Materials](./references/README.md)

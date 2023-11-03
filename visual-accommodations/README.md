@@ -1,6 +1,6 @@
 # ![Intro to Accessibility - Visual Accommodations](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be familiar with the practices we can implement to provide accommodations to people with visual disabilities.
+**Learning objective:** By the end of this lesson students will be able to accommodate users with visual disabilities through the use of alternative text, color contrast, and non-color indicators.
 
 ## What are visual disabilities?
 

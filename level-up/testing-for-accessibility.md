@@ -1,6 +1,6 @@
 # ![Intro to Accessibility - Level Up - Testing for Accessibility](./assets/hero-testing-for-accessibility.png)
 
-**Learning objective:** By the end of this lesson, students will discover different methods for testing for accessibility, including automated and manual testing.
+**Learning objective:** By the end of this lesson students will be able to determine which accessibility testing methods should be employed to ensure digital products are accessible to all users.
 
 ## Automated vs. manual testing
 
