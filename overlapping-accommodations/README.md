@@ -4,27 +4,27 @@
 
 ## Accommodating multiple disabilities
 
-Many features we implement will help accommodate multiple disabilities at once.
+Many of the features we implement serve to accommodate individuals with multiple disabilities simultaneously.
 
 ### Minimizing animation
 
-Animation can quickly cause cognitive overload and make it more challenging to interact with your site. Beyond that, those with epilepsy or other photosensitive conditions can be triggered by flashing lights, flickering images, or patterns. Be mindful of how you design your content to ensure everyone can safely consume what you create.
+Animation can lead to cognitive overload, making it more challenging for individuals to interact with your site. Additionally, individuals with epilepsy or other photosensitive conditions can be sensitive to flashing lights, flickering images, or patterns. It's essential to consider these factors in your design to ensure that everyone can safely access your content.
 
-- Avoid using flashing lights, flickering images, or quickly changing patterns in our app.
-- If you make heavy use of animation in your content that isn't essential, provide a way to turn it off easily.
-- Provide a way for users to turn off flashing lights and flickering images if necessary.
+ - Avoid using flashing lights, flickering images, or rapidly changing patterns in our app.
+ - If your content includes extensive animation that isn't essential, provide an easy way for users to disable it.
+ - Offer users the option to disable flashing lights and flickering images if needed.
 
-### Be brief
+### Keep it concise
 
-Only communicate relevant information to your users, and format that information in bite-sized chunks when possible. Shorter sentences and paragraphs are ideal. This lessens cognitive load and helps those with visual disabilities navigate your site more easily.
+When communicating with your users, provide only relevant information and format it in easily digestible chunks. Shorter sentences and paragraphs are preferable, as they reduce cognitive load and enhance the browsing experience, particularly for individuals with visual disabilities.
 
-Break up text into smaller paragraphs and use headings and subheadings to organize content. This will make our content easier to read and scan.
+Break up text into smaller paragraphs and utilize headings and subheadings to organize content. This approach makes your content more readable and scannable.
 
 ### Be predictable
 
-Help all users by not reinventing the wheel. The best solutions may not be flashy, complex, or novel. Sticking to the fundamentals unlocks a surprising amount of accessibility.  
+Don't reinvent the wheel. The best solutions may not be flashy, complex, or novel. Sticking to the fundamentals unlocks a surprising amount of accessibility.  
 
-- Use clear and consistent labels for all interactive elements. This will help users to understand what each element does and how to interact with it.
-- Ensure that all interactive elements behave predictably. For example, when a user clicks a button, something should happen.
-- Write valid HTML and CSS code. This will help to ensure that our website is functional for all users.
-- Avoid proprietary browser features. Experimental features can be cool but are useless if they're not widely available.
+ - Use clear and consistent labels for all interactive elements to ensure that users understand their purpose and how to interact with them.
+ - Ensure that all interactive elements behave predictably. For example, clicking a button should trigger an expected action.
+ - Prioritize writing valid semantic HTML and CSS code to ensure the functionality of your website for all users.
+ - Avoid relying on proprietary browser features. While experimental features may be interesting, they aren't very useful if they are not widely available to all users.

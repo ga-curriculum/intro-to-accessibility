@@ -1,6 +1,4 @@
-# Intro to Accessibility - Release Notes
-
-![Hero image](../assets/hero.png)
+# ![Intro to Accessibility - Release Notes](../assets/hero.png)
 
 ## Version 1.0 - Updates from legacy content
 

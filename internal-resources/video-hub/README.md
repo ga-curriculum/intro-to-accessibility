@@ -1,6 +1,4 @@
-# Intro to Accessibility - Video Hub
-
-![Hero image](../../assets/hero.png)
+# ![Intro to Accessibility - Video Hub](../../assets/hero.png)
 
 Here you'll find the outlines and the assets used in video content, as well as the original and final video content. Notes to help record specific content can also be found here, when applicable.
 

@@ -4,23 +4,23 @@
 
 ## What are cognitive disabilities?
 
-Cognitive disabilities can include learning disabilities, intellectual disabilities, and autism spectrum disorder. People with cognitive disabilities may struggle with memory, attention, problem-solving, and communication.
+Individuals with cognitive disabilities may include those with learning disabilities, intellectual disabilities, and autism spectrum disorder. These individuals may face challenges related to memory, attention, problem-solving, and communication.
 
 ## Accommodating cognitive disabilities
 
-We can accommodate cognitive disabilities with accessibility with these techniques:
+We can accommodate individuals with cognitive disabilities through accessibility using these techniques:
 
-- Use clear and concise language and avoid jargon when writing instructions and descriptions.
-- Simplify the UI so the choices aren't too busy, overwhelming, or confusing. Avoid using unexpected or confusing elements.
-- Provide multiple ways for users to interact with our content, such as through text, audio, images, and video. This will give users more flexibility and allow them to choose the path that best meets their needs.
-- Provide clear and concise feedback to users when they interact with our interface. This feedback can be visual or auditory and will help users confirm that their actions have the desired effect.
-- Use a consistent layout and design throughout our website. This will help users learn where to find things and understand how our website works. It's even better for us to follow common patterns established by other sites on the internet.
+ - When writing instructions and descriptions, prioritize clear and concise language, and avoid technical jargon.
+ - Simplify the user interface (UI) to prevent it from becoming too busy, overwhelming, or confusing. Avoid the use of unexpected or confusing elements.
+ - Offer multiple ways for users to interact with our content, including text, audio, images, and video. This approach provides users with greater flexibility, allowing them to choose the path that best suits their needs.
+ - Ensure that users receive clear and concise feedback when interacting with our interface. This feedback can take visual or auditory forms and helps users confirm that their actions have the desired effect.
+ - Maintain a consistent layout and design across our website to help users locate information and understand how our website operates. It's also beneficial to follow established patterns commonly used on other websites on the internet.
 
 ![Bad Web Design](./assets/bad-web-design.png)
 
-### Who this benefits
+### Who benefits?
 
-Observing the above techniques, you might feel these guidelines benefit everyone, and you'd be right. Here are some other groups impacted by our efforts to accommodate cognitive disabilities:
+By applying the techniques mentioned above, you'll notice that these guidelines benefit a wide range of individuals. Here are some other groups impacted positively by our efforts to accommodate cognitive disabilities:
 
-- Users with low digital literacy. A simplified UI and jargon-free language aids understanding.
-- The general population. Reducing cognitive load helps everyone, particularly those who are tired or under stress.
+ - Individuals with low digital literacy: A simplified user interface and the use of clear, everyday language contribute to better understanding.
+ - The broader population: Reducing cognitive load benefits everyone, especially those who may be tired or experiencing stress.

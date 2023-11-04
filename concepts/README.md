@@ -4,15 +4,15 @@
 
 ## What is accessibility?
 
-Accessibility means making digital products and services accessible to everyone, including people with disabilities. It means designing and developing products and services to allow everyone to use them, regardless of their abilities.
+Accessibility refers to the practice of ensuring that digital products and services are usable by everyone, regardless of their abilities or disabilities. It involves designing and developing products and services in a way that allows individuals of all backgrounds and capabilities to use them effectively.
 
-To make content accessible we can accommodate people with visual, auditory, mobility, and cognitive disabilities. 
+To achieve accessibility, we aim to accommodate individuals with various disabilities, including those related to visual, auditory, mobility, and cognitive functions. 
 
 ## Why is it important?
 
-Accessibility is important because it allows everyone to participate fully in society. When digital products and services are not accessible, people with disabilities are excluded. This can significantly impact their lives, preventing them from accessing education, employment, and essential services.
+Accessibility is important because it allows everyone to participate fully in society. When digital products and services are not accessible, they exclude people with disabilities. This can significantly impact their lives, preventing them from accessing education, employment, and essential services.
 
-Whether you know it or not, you've benefited from accessibility when using technology and digital products. Have you ever had to adjust the brightness on your phone when using it in bright sunlight or used a voice command to accomplish something on your phone or smart device? You can thank accessibility for those innovations! 
+Whether you are aware of it or not, you've experienced the benefits of accessibility while using technology and digital products. Have you ever had to adjust your phone's brightness when using it in bright sunlight or used voice commands to perform tasks on your phone or smart device?  You can thank accessibility for those innovations! 
 
 ## Discussing Disabilities
 
