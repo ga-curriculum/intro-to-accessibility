@@ -28,7 +28,8 @@ This module lays the groundwork for understanding digital accessibility, emphasi
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Testing for Accessibility](./level-up/testing-for-accessibility.md) | -- | -- | Accessibility testing: automated tools and manual evaluation methods. |
-|  **Total Level Up content**           | -- | -- |                             |
+| **Total Level Up content** | -- | -- |       |
+
 ## References
 
 📖 [Reference Materials](./references/README.md)
