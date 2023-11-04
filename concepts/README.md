@@ -6,7 +6,7 @@
 
 Accessibility means making digital products and services accessible to everyone, including people with disabilities. It means designing and developing products and services to allow everyone to use them, regardless of their abilities.
 
-To make content accessible we can accomidate people with visual, auditory, mobility, and cognitive disabilities. 
+To make content accessible we can accommodate people with visual, auditory, mobility, and cognitive disabilities. 
 
 ## Why is it important?
 
@@ -16,10 +16,10 @@ Whether you know it or not, you've benefited from accessibility when using techn
 
 ## Discussing Disabilities
 
-tktk I think it would be wise to have a short paragraph here framing the choices we have made in the copy of this lecture and the reasoning behind those decisions, such as:
+In crafting the content of these lessons, we've made thoughtful decisions grounded in inclusivity and clarity. We recognize our role as developers in ensuring the tools and platforms we create are accessible to all, without exception.
 
-- Treating it as our responsibility as developers to make the things we create accessible to everyone.
-- Acknowledging disabilities as disabilities in an effort to speak plainly and not communicate in euphemisms or by using patronizing language.
-- Using person-first language where possible to center people when we discuss disabilities.
-- Acknowledging that this content is delivered to a global audience and cannot take everyone's preferences into account. Individuals use different words and have preferences regarding how they describe themselves and their bodies. You should always respect those preferences and other people's lived experiences. If it's relevant to your interaction with them, then ask and be sure to follow their lead. 
-- By providing accessible content, we not only assist those with life-long disabilities but also those that are temporary disabled or do not suffer from disabilities.
+  1)  We speak of disabilities candidly, without resorting to euphemisms or condescension, because clear communication is the cornerstone of understanding and action. Our language strives to put people first, reflecting our focus on the individual rather than their disability, thereby promoting dignity and respect.
+
+  2) We are acutely aware that our audience is diverse and global, with varying preferences for how they are addressed or describe their experiences. While it is not feasible to cater to every individual preference in our broad communications, we strongly advocate for personal respect and adherence to one's chosen identifiers in one-on-one interactions. Asking and abiding by someone's preferences is not just a matter of politeness—it's a fundamental acknowledgment of their identity and experience.
+
+By committing to accessibility in our lessons, we serve not only those with permanent disabilities but also those facing temporary challenges or none at all. Accessible content transcends boundaries, ensuring that everyone, irrespective of their current abilities, has equal opportunity to learn, engage, and succeed.

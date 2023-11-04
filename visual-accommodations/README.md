@@ -10,9 +10,11 @@ Visual disabilities can include blindness, low vision, and color blindness. Peop
 
 We can use these techniques to accommodate visual disabilities:
 
-- Provide alt text for images so that people who use screen readers can understand what the images communicate.
+- Provide alt text for images so that people who use *screen readers* can understand what the images communicate.
 - Use high-contrast colors between text and background to make text easier to read.
 - Avoid the use of color alone to convey information.
+
+> A ***screen reader*** is a software application that converts text and other elements on a digital screen into speech or Braille. Users of screen readers can range from people with varying degrees of visual impairment, including those who are completely blind, to individuals with learning disabilities like dyslexia that make processing text challenging. 
 
 ## Alt text
 
@@ -58,7 +60,7 @@ You can add alt text to an image by adding the `alt` attribute inside of an `<im
 
 Write alt text for the above image without consideration to the context the image will be used in.
 
-Consider the colors in the image, the emotional tone of the image, the style of the image, and any other details you think might be relevant.
+Consider the colors in the image, the people or objects present, the style of the image, and any other details you think might be relevant.
 
 ## Color contrast
 
@@ -66,21 +68,26 @@ Consider the colors in the image, the emotional tone of the image, the style of 
 
 Color contrast is the difference between the brightness of two colors. High color contrast makes text and images easier to read and comprehend. 
 
-The [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) publishes the [Web Content Accessibility Guidelines (WCAG)](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines), which companies and governments often reference to help implement them implement accessibility standards on the web. One of the areas they set standards for is color contrast.
+The [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) publishes the [Web Content Accessibility Guidelines (WCAG)](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines), which companies and governments often reference to help them implement accessibility standards on the web. One of the areas they set standards for is color contrast.
 
 ### Who this benefits
 
-Again, this has benefits for visually impaired users but has benefits for others as well:
+Again, this has benefits for users who are visually impaired, but has benefits for others as well:
 
-- People who are not visually impaired. Even users who are not visually impaired will find low-contrast visual elements offputting.
+- People who are not visually impaired. Even users who are not visually impaired will find low-contrast visual elements difficult to read.
 - People using devices outdoors. Sunlight makes many screens challenging to read. High contrast can help maintain visibility in the outdoors.
 - People using low-quality displays. Monitors with truly high contrast are relatively modern and have not permeated the entire display market.
 
 ### WCAG color contrast requirements
 
-WCAG 2.0 level AA (the easiest to meet requirement) specifies a minimum color contrast ratio of 4.5:1 for normal text and 3:1 for large text (24px or larger). There are many online tools to check the contrast between two colors. [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. Both [Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in tools to evaluate a website and flag any inaccessible text found on it as well.
+WCAG 2.0 level AA (the easiest to meet requirement) specifies a minimum color contrast ratio of 4.5:1 for normal text and 3:1 for large text (24px or larger). There are many online tools to check the contrast between two colors. 
 
-There is a recurring theme when implementing accessible content: simpler is almost always better. Black text on a white background or white text on a black background will always meet these contrast requirements. That said, you're not restricted from doing something unique. Just ensure it meets the guidelines.
+[This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. 
+
+Both 
+[Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in tools to evaluate a website and flag any inaccessible text found on it as well.
+
+There is a recurring theme when implementing accessible content: *simpler is almost always better*. Black text on a white background or white text on a black background will always meet these contrast requirements. That said, you're not restricted from doing something unique. Just ensure it meets the guidelines.
 
 ### 🧠 You Do
 
@@ -113,9 +120,9 @@ Don't forget you can also opt for a simpler color palette.
 
 ## Conveying meaning without color
 
-While color can help signal preferred actions or potential danger to users, we can't rely on it as the only indicator. 
+Using color to highlight links or warnings is great, but it can't be the only way we show something's clickable or important. That's because not everyone sees colors the same way.
 
-Take links, for example. Links have different colors associated with them by default, but they're also typically underlined. This underlining helps people with blue/black and purple/black color blindness still distinguish between regular text and links.
+Consider the presentation of links, which traditionally feature distinct colors and are underlined. The underlining is especially beneficial for individuals with color vision differences, such as difficulty distinguishing between blue/black and purple/black, ensuring they can differentiate links from standard text.
 
 Beyond this, underlined links are a widespread and clear pattern used across the internet. By adhering to this design, your users will immediately recognize how to navigate your site, even if they've never visited it.
 
