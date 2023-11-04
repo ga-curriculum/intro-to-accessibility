@@ -30,4 +30,4 @@ Beyond benefitting people with long-term mobility challenges, others can benefit
 **Scenario:**
 Imagine you are a part of a development team tasked with designing a new e-commerce website. The website will offer a range of products and services and will be viewable on all devices. 
 
-**Task:** How would you apply the techniques learned in this lesson to accommodate individuals with mobility disabilities? List 2 considerations you would make when designing product card interactions on mobile devices. 
+**Task:** How would you apply the techniques learned in this lesson to accommodate individuals with mobility disabilities? List two considerations you would make when designing product card interactions on mobile devices. 
