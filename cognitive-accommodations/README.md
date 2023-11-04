@@ -24,3 +24,10 @@ By applying the techniques mentioned above, you'll notice that these guidelines 
 
  - Individuals with low digital literacy: A simplified user interface and the use of clear, everyday language contribute to better understanding.
  - The broader population: Reducing cognitive load benefits everyone, especially those who may be tired or experiencing stress.
+
+### 🧠 You Do
+
+**Scenario:**
+Imagine you are part of a design team tasked with creating a new mobile app for a weather service. The app provides weather forecasts, severe weather alerts, and storm tracking features. 
+
+**Task:** List two ways to accommodate individuals with cognitive disabilities while designing the user interface and content for the weather app.

@@ -24,3 +24,10 @@ Beyond benefitting people with long-term mobility challenges, others can benefit
 
 - Those with short-term disabilities like repetitive strain injuries or a broken arm.
 - Multitasking users with only one or no hands available to interact with their devices. The user may be carrying out other activities like holding a baby, cooking food, and so on.
+
+### 🧠 You Do
+
+**Scenario:**
+Imagine you are a part of a development team tasked with designing a new e-commerce website. The website will offer a range of products and services and will be viewable on all devices. 
+
+**Task:** How would you apply the techniques learned in this lesson to accommodate individuals with mobility disabilities? List 2 considerations you would make when designing product card interactions on mobile devices. 
