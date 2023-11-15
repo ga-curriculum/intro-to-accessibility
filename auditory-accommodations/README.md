@@ -29,8 +29,7 @@ Accommodating auditory disabilities directly benefits individuals who are deaf o
 Users with temporary disabilities, such as ear infections.
  - Users discovering audio content through search engines. Transcripts enable search engines to understand and index audio and video content.
 
-
-### 🧠 You Do
+### 🎓 You Do
 
 **Scenario:** You are part of a design team working on a mobile app for a new social networking platform. One of the key features of the app is a video-sharing section where users can post short video clips with audio. 
 

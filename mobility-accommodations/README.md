@@ -8,9 +8,9 @@ Mobility accommodations can help people with arthritis, Parkinson's, MS, quadrip
 
 ## Accommodating mobility disabilities
 
-![](./assets/mobility.png)
+![A diagram demonstrating the difference between a large button sized to accommodate those with mobility disabilities versus a button not sized appropriately.](./assets/mobility.png)
 
-Here are some way that we can improve accessibility for users with disabilities:
+Here are some way that we can improve accessibility for users with mobility disabilities:
 
 - Ensure buttons and links are large enough to be easily tapped with a finger or other pointing device. This is depicted above. Easy to tap elements should have a minimum surface area of 48px x 48px. 
 - Provide keyboard navigation. This allows users to navigate a website or app using only a keyboard. This option is critical for those who find it difficult to use a mouse or other pointing device. 
@@ -25,9 +25,9 @@ Beyond benefitting people with long-term mobility challenges, others can benefit
 - Those with short-term disabilities like repetitive strain injuries or a broken arm.
 - Multitasking users with only one or no hands available to interact with their devices. The user may be carrying out other activities like holding a baby, cooking food, and so on.
 
-### 🧠 You Do
+### 🎓 You Do
 
 **Scenario:**
-Imagine you are a part of a development team tasked with designing a new e-commerce website. The website will offer a range of products and services and will be viewable on all devices. 
+Imagine you are a part of a development team tasked with designing a new e-commerce website. The website will offer a range of products and services and will be viewable on all devices.
 
-**Task:** How would you apply the techniques learned in this lesson to accommodate individuals with mobility disabilities? List two considerations you would make when designing product card interactions on mobile devices. 
+**Task:** How would you apply the techniques learned in this lesson to accommodate individuals with mobility disabilities? List two considerations you would make when designing product card interactions on mobile devices.

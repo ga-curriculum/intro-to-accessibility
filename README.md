@@ -13,22 +13,22 @@ This module lays the groundwork for understanding digital accessibility, emphasi
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                                           | -- | -- | Setting up the development environment     |
-| [Concepts](./concepts/README.md)                                     | -- | -- | Defining accessibility and its significance in digital inclusion                            |
-| [Visual Accommodations](./visual-accommodations/README.md)           | -- | -- | Inclusive design strategies: alt text, color contrast, non-color indicators                |
-| [Auditory Accommodations](./auditory-accommodations/README.md)       | -- | -- | Inclusive design strategies: transcripts, closed captioning, visual feedback              |
+| [Setup](./setup/README.md)                                           | -- | -- | Setting up the development environment                                                                                             |
+| [Concepts](./concepts/README.md)                                     | -- | -- | Defining accessibility and its significance in digital inclusion                                                                   |
+| [Visual Accommodations](./visual-accommodations/README.md)           | -- | -- | Inclusive design strategies: alt text, color contrast, non-color indicators                                                        |
+| [Auditory Accommodations](./auditory-accommodations/README.md)       | -- | -- | Inclusive design strategies: transcripts, closed captioning, visual feedback                                                       |
 | [Mobility Accommodations](./mobility-accommodations/README.md)       | -- | -- | Inclusive design strategies: keyboard navigation, large interactive elements, clear labels, minimal drag interactions              |
-| [Cognitive Accommodations](./cognitive-accommodations/README.md)     | -- | -- | Inclusive design strategies: clear language, simplified UI, multi-modal content, explicit feedback, consistent design             |
-| [Overlapping Accommodations](./overlapping-accommodations/README.md) | -- | -- | Inclusive design strategies: minimizing animation, brevity in communication, and predictability in user interface design |
-| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | Core accessibility principles: perceivable, operable, understandable, and robust.      |
-|  **Total content**                                                   | -- | -- |             |
+| [Cognitive Accommodations](./cognitive-accommodations/README.md)     | -- | -- | Inclusive design strategies: clear language, simplified UI, multi-modal content, explicit feedback, consistent design              |
+| [Overlapping Accommodations](./overlapping-accommodations/README.md) | -- | -- | Inclusive design strategies: minimizing animation, brevity in communication, and predictability in user interface design           |
+| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | Core accessibility principles: perceivable, operable, understandable, and robust.                                                  |
+|  **Total content**                                                   | -- | -- |                                                                                                                                    |
 
 ### Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Testing for Accessibility](./level-up/testing-for-accessibility.md) | -- | -- | Accessibility testing: automated tools and manual evaluation methods. |
-| **Total Level Up content** | -- | -- |       |
+| **Total Level Up content**                                           | -- | -- |                                                                       |
 
 ## References
 

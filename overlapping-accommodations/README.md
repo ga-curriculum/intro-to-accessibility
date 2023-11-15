@@ -22,7 +22,7 @@ Break up text into smaller paragraphs and utilize headings and subheadings to or
 
 ### Be predictable
 
-Don't reinvent the wheel. The best solutions may not be flashy, complex, or novel. Sticking to the fundamentals unlocks a surprising amount of accessibility.  
+Don't reinvent the wheel. The best solutions may not be flashy, complex, or novel. Sticking to the fundamentals unlocks a surprising amount of accessibility.
 
  - Use clear and consistent labels for all interactive elements to ensure that users understand their purpose and how to interact with them.
  - Ensure that all interactive elements behave predictably. For example, clicking a button should trigger an expected action.

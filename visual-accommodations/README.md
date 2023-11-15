@@ -14,7 +14,7 @@ We can utilize these techniques to accommodate individuals with visual disabilit
  - Utilize high-contrast colors between text and background to enhance the visibility of text.
  - Refrain from relying solely on color to convey information.
 
-> A ***screen reader*** is a software application that converts text and other elements on a digital screen into speech or Braille. Users of screen readers can range from people with varying degrees of visual impairment, including those who are completely blind, to individuals with learning disabilities like dyslexia that make processing text challenging. 
+> 📚 A *screen reader* is a software application that converts text and other elements on a digital screen into speech or Braille. Users of screen readers can range from people with varying degrees of visual impairment, including those who are completely blind, to individuals with learning disabilities like dyslexia that make processing text challenging. 
 
 ## Alternative text (alt text)
 
@@ -54,7 +54,7 @@ You can add alt text to an image by adding the `alt` attribute inside of an `<im
 >
 ```
 
-### 🧠 You Do
+### 🎓 You Do
 
 ![A stylized illustration of a black cat and a white cat on a bold red couch against a minimalist dark background.](./assets/alt-text.png)
 
@@ -78,7 +78,6 @@ Once again, these improvements provide advantages for individuals with visual im
  - Individuals using devices outdoors: Sunlight often poses readability challenges for many screens. High contrast can aid visibility when using devices outdoors.
  - Individuals using low-quality displays: High-contrast monitors are a relatively recent development and may not be widespread across all display options, so this benefit extends to users with older or lower-quality displays.
 
-
 ### Understanding WCAG color contrast requirements
 
 The Web Content Accessibility Guidelines (WCAG) outline specific color contrast requirements to ensure digital content is accessible to a wide range of users. These guidelines prioritize inclusivity and usability for individuals with various visual abilities.
@@ -89,7 +88,7 @@ WCAG 2.0 level AA, which represents the easiest level of compliance, establishes
  
  - For large text: When text is 24 pixels (px) or larger, a minimum color contrast ratio of **3:1** is specified. While the requirement is slightly lower for larger text, it still ensures readability for a broader audience.
  
-> The ratio is expressed as "4.5:1" where the first number (4.5) represents the relative brightness or luminance of the text color, and the second number (1) represents the relative brightness or luminance of the background color.
+> 💡 The ratio is expressed as "4.5:1" where the first number (4.5) represents the relative brightness or luminance of the text color, and the second number (1) represents the relative brightness or luminance of the background color.
 
 There are many online tools to check the contrast between two colors.
 
@@ -99,7 +98,7 @@ There are many online tools to check the contrast between two colors.
 
 There is a recurring theme when implementing accessible content: *simpler is almost always better*. Black text on a white background or white text on a black background will always meet these contrast requirements. That said, you're not restricted from doing something unique. Just ensure it meets the guidelines.
 
-### 🧠 You Do
+### 🎓 You Do
 
 Add this HTML inside the `<body>`:
 
@@ -118,7 +117,7 @@ And this CSS to your CSS file:
 }
 ```
 
-Alter the CSS for the button to meet the WCAG 2.0 level AA color contrast requirements.  
+Alter the CSS for the button to meet the WCAG 2.0 level AA color contrast requirements.
 
 Can't choose a color? Here are a few cool resources you can explore to help out:
 
