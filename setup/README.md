@@ -5,11 +5,11 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 ```bash
 cd ~/code/ga/lectures
 ```
-Make a new directory called `accessibility-intro`, then enter this directory:
+Make a new directory called `intro-to-accessibility`, then enter this directory:
 
 ```bash
-mkdir accessibility-intro
-cd accessibility-intro
+mkdir intro-to-accessibility
+cd intro-to-accessibility
 ```
 
 Create a directory called `css`:
