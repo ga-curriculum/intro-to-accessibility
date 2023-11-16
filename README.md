@@ -20,15 +20,15 @@ This module lays the groundwork for understanding digital accessibility, emphasi
 | [Mobility Accommodations](./mobility-accommodations/README.md)       | -- | -- | Inclusive design strategies: keyboard navigation, large interactive elements, clear labels, minimal drag interactions              |
 | [Cognitive Accommodations](./cognitive-accommodations/README.md)     | -- | -- | Inclusive design strategies: clear language, simplified UI, multi-modal content, explicit feedback, consistent design              |
 | [Overlapping Accommodations](./overlapping-accommodations/README.md) | -- | -- | Inclusive design strategies: minimizing animation, brevity in communication, and predictability in user interface design           |
-| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | Core accessibility principles: perceivable, operable, understandable, and robust.                                                  |
-|  **Total content**                                                   | -- | -- |                                                                                                                                    |
+| [Accessibility Principles](./accessibility-principles/README.md)     | -- | -- | Core accessibility principles: perceivable, operable, understandable, and robust                                                   |
+| **Total content**                                                    | -- | -- |                                                                                                                                    |
 
 ### Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Testing for Accessibility](./level-up/testing-for-accessibility.md) | -- | -- | Accessibility testing: automated tools and manual evaluation methods. |
-| **Total Level Up content**                                           | -- | -- |                                                                       |
+| [Testing for Accessibility](./level-up/testing-for-accessibility.md) | -- | -- | Accessibility testing: automated tools and manual evaluation methods |
+| **Total Level Up content**                                           | -- | -- |                                                                      |
 
 ## References
 

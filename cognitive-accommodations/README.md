@@ -6,7 +6,7 @@
 
 Individuals with cognitive disabilities may include those with learning disabilities, intellectual disabilities, and autism spectrum disorder. These individuals may face challenges related to memory, attention, problem-solving, and communication.
 
-## Accommodating mobility disabilities
+## Accommodating cognitive disabilities
 
 We can accommodate individuals with cognitive disabilities through accessibility using these techniques:
 
@@ -32,7 +32,7 @@ Imagine you are part of a design team tasked with creating a new mobile app for 
 
 **Task:** List two ways to accommodate individuals with cognitive disabilities while designing the user interface and content for the weather app.
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - What are some techniques we can use to accommodate people with cognitive disabilities?
 - True/False: accommodating people who are tired is included in accommodating people with cognitive disabilities.

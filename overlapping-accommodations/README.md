@@ -29,7 +29,7 @@ Don't reinvent the wheel. The best solutions may not be flashy, complex, or nove
  - Prioritize writing valid semantic HTML and CSS code to ensure the functionality of your website for all users.
  - Avoid relying on proprietary browser features. While experimental features may be interesting, they aren't very useful if they are not widely available to all users.
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - True/False: often times an accessibility feature we implement can accommodate multiple disabilities simultaneously.
 - What are some ways we can accommodate multiple disabilities?

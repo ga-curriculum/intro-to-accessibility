@@ -32,7 +32,7 @@ Imagine you are a part of a development team tasked with designing a new e-comme
 
 **Task:** How would you apply the techniques learned in this lesson to accommodate individuals with mobility disabilities? List two considerations you would make when designing product card interactions on mobile devices.
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - What are some examples of mobility disabilities?
 - What can we do to accommodate people with mobility disabilities?

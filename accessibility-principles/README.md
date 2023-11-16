@@ -34,8 +34,7 @@ Content must be robust enough to be interpreted reliably by users, including the
 
 - We should design our website to be compatible with as many different browsers and assistive technologies as possible.
 
-
-## Knowledge Checks
+## ❓ Review Questions
 
 - What are the four main accessibility principles?
 - What are some examples of making components and controls that are operable by all users?

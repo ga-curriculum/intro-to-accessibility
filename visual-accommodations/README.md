@@ -142,7 +142,8 @@ In addition to benefiting users with visual impairments, these practices also pr
 - People who are not visually impaired. Following established patterns helps all users find familiar landmarks in your application.
 - People using devices outdoors or low-quality displays. Sunlight or bad display technology can make colors look washed out. Using signals beyond color increases the visibility of elements.
 - A global audience. Cultural interpretations of color can vary, so using language other than color to communicate may be necessary for a site to be usable globally.
-## Knowledge Checks
+
+## ❓ Review Questions
 
 - What does the `alt` attribute do?
 - Who benefits from our use of high contrast colors?

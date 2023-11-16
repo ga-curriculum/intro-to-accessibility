@@ -35,7 +35,7 @@ Users with temporary disabilities, such as ear infections.
 
 **Task:** List two ways that you could accommodate individuals with auditory disabilities in this scenario, specifically concerning the video-sharing feature.
 
-## Knowledge Checks
+## ❓ Review Questions
 
 - What are some examples of auditory disabilities?
 - What are some techniques we can use to accommodate individuals with auditory disabilities?
