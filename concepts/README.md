@@ -23,3 +23,9 @@ In crafting the content of these lessons, we've made thoughtful decisions ground
 2) We are acutely aware that our audience is diverse and global, with varying preferences for how they are addressed or describe their experiences. While it is not feasible to cater to every individual preference in our broad communications, we strongly advocate for personal respect and adherence to one's chosen identifiers in one-on-one interactions. Asking and abiding by someone's preferences is not just a matter of politeness—it's a fundamental acknowledgment of their identity and experience.
 
 By committing to accessibility in our lessons, we serve not only those with permanent disabilities but also those facing temporary challenges or none at all. Accessible content transcends boundaries, ensuring that everyone has equal opportunity to learn, engage, and succeed irrespective of their current abilities.
+
+## Knowledge Checks
+
+- What is accessibility?
+- Why is accessibility important?
+- What are some common disabilities we, as developers, can accommodate in our apps?

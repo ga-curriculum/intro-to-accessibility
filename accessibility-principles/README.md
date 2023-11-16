@@ -33,3 +33,10 @@ Information and the operation of user interface components must be understandabl
 Content must be robust enough to be interpreted reliably by users, including the assistive technologies they may use.
 
 - We should design our website to be compatible with as many different browsers and assistive technologies as possible.
+
+
+## Knowledge Checks
+
+- What are the four main accessibility principles?
+- What are some examples of making components and controls that are operable by all users?
+- What are some examples of making user interface components that are understandable by all users?
