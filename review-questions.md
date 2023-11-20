@@ -1,3 +1,6 @@
+# Review and Knowledge Checks
+
+This section provides questions that can be used in various teaching formats. They are suitable for integration into lectures, Slack polls, Learning Management System (LMS) checkpoints, or as part of unit assessments.
 
 ## Visual Accommodations 
 
