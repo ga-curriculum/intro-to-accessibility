@@ -31,9 +31,3 @@ By applying the techniques mentioned above, you'll notice that these guidelines 
 Imagine you are part of a design team tasked with creating a new mobile app for a weather service. The app provides weather forecasts, severe weather alerts, and storm tracking features. 
 
 **Task:** List two ways to accommodate individuals with cognitive disabilities while designing the user interface and content for the weather app.
-
-## ❓ Review Questions
-
-- What are some techniques we can use to accommodate people with cognitive disabilities?
-- True/False: accommodating people who are tired is included in accommodating people with cognitive disabilities.
-- What are some examples of cognitive disabilities?
