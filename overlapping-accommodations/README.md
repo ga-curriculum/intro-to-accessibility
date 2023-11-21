@@ -28,9 +28,3 @@ Don't reinvent the wheel. The best solutions may not be flashy, complex, or nove
  - Ensure that all interactive elements behave predictably. For example, clicking a button should trigger an expected action.
  - Prioritize writing valid semantic HTML and CSS code to ensure the functionality of your website for all users.
  - Avoid relying on proprietary browser features. While experimental features may be interesting, they aren't very useful if they are not widely available to all users.
-
-## ❓ Review Questions
-
-- True/False: often times an accessibility feature we implement can accommodate multiple disabilities simultaneously.
-- What are some ways we can accommodate multiple disabilities?
-- What some examples of one accessibility feature of an app accommodating multiple disabilities simultaneously?
