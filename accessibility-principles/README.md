@@ -1,6 +1,6 @@
 # ![Intro to Accessibility - Accessibility Principles](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson students will be able to apply the four core principles of accessibility — perceivable, operable, understandable, and robust. 
+**Learning objective:** By the end of this lesson students will be able to apply the four core principles of accessibility — perceivable, operable, understandable, and robust.
 
 ## The four principles of accessibility
 
@@ -23,7 +23,7 @@ User interface components and controls must be operable by all users.
 
 ### Understandable
 
-Information and the operation of user interface components must be understandable. For example, 
+Information and the operation of user interface components must be understandable. For example:
 
 - Content should be readable and presented in a predictable way. Instructions should be clear and concise.
 - Design our sites to assist users in inputting information so that they can avoid and correct mistakes when they enter information we weren't expecting.

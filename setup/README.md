@@ -5,6 +5,7 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 ```bash
 cd ~/code/ga/lectures
 ```
+
 Make a new directory called `intro-to-accessibility`, then enter this directory:
 
 ```bash
@@ -47,4 +48,3 @@ body {
 ```
 
 Open the `index.html` file in your browser. When you open the page, the background color should be the `lightgray` color specified above.
-

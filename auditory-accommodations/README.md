@@ -15,22 +15,22 @@ When sound is not a reliable means of communication, visual communication become
 We can utilize these techniques to accommodate individuals with auditory disabilities:
 
 - Offer transcripts of audio content to enable access for those who are deaf or hard of hearing.
- - Incorporate closed captioning in videos to ensure that individuals who are deaf or hard of hearing can comprehend the audio content.
- - Provide visual feedback when users interact with elements like buttons.
+- Incorporate closed captioning in videos to ensure that individuals who are deaf or hard of hearing can comprehend the audio content.
+- Provide visual feedback when users interact with elements like buttons.
 
 ### Who benefits?
 
 Accommodating auditory disabilities directly benefits individuals who are deaf or hard-of-hearing but extends its advantages to various groups:
 
- - Users who consume content in settings where playing audio may be inappropriate. Cultural norms differ, but many consider it impolite to play audio in public spaces. Offering an option for users without headphones to access content without audio can be considerate.
- - Users who prefer reading over listening to audio. Many people can read more quickly than spoken words can be conveyed.
- - Users who struggle with auditory memory. Many individuals find it challenging to retain information presented solely through audio. Presenting information in multiple formats aids information retention. Transcripts also allow individuals to consume information at their own pace.
- - Users with time constraints who cannot listen to entire audio content. Text is easily searchable, and highlights are simpler to locate.
-Users with temporary disabilities, such as ear infections.
- - Users discovering audio content through search engines. Transcripts enable search engines to understand and index audio and video content.
+- Users who consume content in settings where playing audio may be inappropriate. Cultural norms differ, but many consider it impolite to play audio in public spaces. Offering an option for users without headphones to access content without audio can be considerate.
+- Users who prefer reading over listening to audio. Many people can read more quickly than spoken words can be conveyed.
+- Users who struggle with auditory memory. Many individuals find it challenging to retain information presented solely through audio. Presenting information in multiple formats aids information retention. Transcripts also allow individuals to consume information at their own pace.
+- Users with time constraints who cannot listen to entire audio content. Text is easily searchable, and highlights are simpler to locate.
+- Users with temporary disabilities, such as ear infections.
+- Users discovering audio content through search engines. Transcripts enable search engines to understand and index audio and video content.
 
 ### 🎓 You Do
 
-**Scenario:** You are part of a design team working on a mobile app for a new social networking platform. One of the key features of the app is a video-sharing section where users can post short video clips with audio. 
+**Scenario:** You are part of a design team working on a mobile app for a new social networking platform. One of the key features of the app is a video-sharing section where users can post short video clips with audio.
 
 **Task:** List two ways that you could accommodate individuals with auditory disabilities in this scenario, specifically concerning the video-sharing feature.

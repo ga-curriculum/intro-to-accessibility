@@ -1,5 +1,5 @@
-# ![Intro to Accessibility - Release Notes](../assets/hero.png)
+# ![Intro to Accessibility - Release Notes](../assets/release-notes.png)
 
 ## Version 1.0 - Updates from legacy content
 
-This is new content!
+This is brand new lecture content!

@@ -2,7 +2,7 @@
 
 This section provides questions that can be used in various teaching formats. They are suitable for integration into lectures, Slack polls, Learning Management System (LMS) checkpoints, or as part of unit assessments.
 
-## Visual Accommodations 
+## Visual Accommodations
 
 ❓ Review Questions
 
@@ -17,7 +17,7 @@ This section provides questions that can be used in various teaching formats. Th
 - What are some examples of auditory disabilities?
 - What are some techniques we can use to accommodate individuals with auditory disabilities?
 
-## Mobility Accommodations 
+## Mobility Accommodations
 
 ❓ Review Questions
 
@@ -33,7 +33,7 @@ This section provides questions that can be used in various teaching formats. Th
 - True/False: accommodating people who are tired is included in accommodating people with cognitive disabilities.
 - What are some examples of cognitive disabilities?
 
-## Overlapping Accommodations 
+## Overlapping Accommodations
 
 ❓ Review Questions
 

@@ -1,4 +1,4 @@
-# ![Intro to Accessibility - Instructor Guide](../assets/hero.png)
+# ![Intro to Accessibility - Instructor Guide](../assets/instructor-guide.png)
 
 Nothing here yet!
 

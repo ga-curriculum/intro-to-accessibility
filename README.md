@@ -2,7 +2,9 @@
 
 ## About
 
-This module lays the groundwork for understanding digital accessibility, emphasizing the importance of fostering inclusive web spaces. It addresses the essential nature of accessibility and the spectrum of individuals it assists, including those with visual, hearing, motor, and cognitive disabilities. The module includes dedicated sections to comprehending and applying accommodations to improve access for people with specific types of disabilities. While designed for beginners, the material suitable for anyone seeking a fundamental comprehension of this vital subject.
+This module lays the groundwork for understanding digital accessibility, emphasizing the importance of fostering inclusive web spaces. It addresses the essential nature of accessibility and the spectrum of individuals it assists, including those with visual, hearing, motor, and cognitive disabilities.
+
+The module includes dedicated sections to comprehending and applying accommodations to improve access for people with specific types of disabilities. While designed for beginners, the material suitable for anyone seeking a fundamental comprehension of this vital subject.
 
 ## Prerequisites
 

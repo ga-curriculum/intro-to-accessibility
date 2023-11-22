@@ -10,11 +10,11 @@ Visual disabilities encompass conditions like blindness, low vision, and color b
 
 We can utilize these techniques to accommodate individuals with visual disabilities:
 
- - Include alternative text (alt text) for images to ensure that people who use *screen readers* can comprehend the content of the images.
- - Utilize high-contrast colors between text and background to enhance the visibility of text.
- - Refrain from relying solely on color to convey information.
+- Include alternative text (alt text) for images to ensure that people who use *screen readers* can comprehend the content of the images.
+- Utilize high-contrast colors between text and background to enhance the visibility of text.
+- Refrain from relying solely on color to convey information.
 
-> 📚 A *screen reader* is a software application that converts text and other elements on a digital screen into speech or Braille. Users of screen readers can range from people with varying degrees of visual impairment, including those who are completely blind, to individuals with learning disabilities like dyslexia that make processing text challenging. 
+> 📚 A *screen reader* is a software application that converts text and other elements on a digital screen into speech or Braille. Users of screen readers can range from people with varying degrees of visual impairment, including those who are completely blind, to individuals with learning disabilities like dyslexia that make processing text challenging.
 
 ## Alternative text (alt text)
 
@@ -40,8 +40,8 @@ For more info, [this video from Google](https://www.youtube.com/watch?v=flf2vS0I
 
 These accommodations provide advantages for individuals with visual impairments but also extend their benefits to other groups:
 
- - Users with low bandwidth or limited connectivity: In situations where images may not load, alt text can serve as a useful placeholder, ensuring that content remains accessible.
- - Users who discover images through search engines: Alt text plays a crucial role in helping search engines understand and categorize the content of images, making it beneficial for a broader audience.
+- Users with low bandwidth or limited connectivity: In situations where images may not load, alt text can serve as a useful placeholder, ensuring that content remains accessible.
+- Users who discover images through search engines: Alt text plays a crucial role in helping search engines understand and categorize the content of images, making it beneficial for a broader audience.
 
 ### How to add alt text to an image
 
@@ -50,7 +50,8 @@ You can add alt text to an image by adding the `alt` attribute inside of an `<im
 ```HTML
 <img 
   src="./image-source" 
-  alt="Add alt text here! The alt text should be as short as possible but still descriptive enough to convey the image's meaning."
+  alt="Add alt text here! The alt text should be as short as possible but still 
+    descriptive enough to convey the image's meaning."
 >
 ```
 
@@ -66,7 +67,7 @@ Consider the colors in the image, the people or objects present, the style of th
 
 ![Two elements shown, one has low contrast between the off-white background and the white foreground text that reads Low Contrast. Another has high contrast between the blue background and white foreground text that reads High Contrast.](./assets/contrast.png)
 
-Color contrast is the difference between the brightness of two colors. High color contrast makes text and images easier to read and comprehend. 
+Color contrast is the difference between the brightness of two colors. High color contrast makes text and images easier to read and comprehend.
 
 The [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) publishes the [Web Content Accessibility Guidelines (WCAG)](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines), which companies and governments often reference to help them implement accessibility standards on the web. One of the areas they set standards for is color contrast.
 
@@ -74,9 +75,9 @@ The [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) publishes the
 
 Once again, these improvements provide advantages for individuals with visual impairments but also extend their benefits to various groups:
 
- - Individuals without visual impairments: Users without visual impairments also encounter difficulties when dealing with low-contrast visual elements, as they can be challenging to read.
- - Individuals using devices outdoors: Sunlight often poses readability challenges for many screens. High contrast can aid visibility when using devices outdoors.
- - Individuals using low-quality displays: High-contrast monitors are a relatively recent development and may not be widespread across all display options, so this benefit extends to users with older or lower-quality displays.
+- Individuals without visual impairments: Users without visual impairments also encounter difficulties when dealing with low-contrast visual elements, as they can be challenging to read.
+- Individuals using devices outdoors: Sunlight often poses readability challenges for many screens. High contrast can aid visibility when using devices outdoors.
+- Individuals using low-quality displays: High-contrast monitors are a relatively recent development and may not be widespread across all display options, so this benefit extends to users with older or lower-quality displays.
 
 ### Understanding WCAG color contrast requirements
 
@@ -84,17 +85,15 @@ The Web Content Accessibility Guidelines (WCAG) outline specific color contrast 
 
 WCAG 2.0 level AA, which represents the easiest level of compliance, establishes minimum color contrast ratios. These ratios are as follows:
 
- - For normal text: A minimum color contrast ratio of ***4.5:1*** is required. This means that there should be a significant difference in brightness between the text and its background to make it easily readable.
- 
- - For large text: When text is 24 pixels (px) or larger, a minimum color contrast ratio of **3:1** is specified. While the requirement is slightly lower for larger text, it still ensures readability for a broader audience.
- 
+- For normal text: A minimum color contrast ratio of ***4.5:1*** is required. This means that there should be a significant difference in brightness between the text and its background to make it easily readable.
+- For large text: When text is 24 pixels (px) or larger, a minimum color contrast ratio of **3:1** is specified. While the requirement is slightly lower for larger text, it still ensures readability for a broader audience.
+
 > 💡 The ratio is expressed as "4.5:1" where the first number (4.5) represents the relative brightness or luminance of the text color, and the second number (1) represents the relative brightness or luminance of the background color.
 
 There are many online tools to check the contrast between two colors.
 
- - [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors. 
-
- - Both [Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in tools to evaluate a website and flag any inaccessible text found on it as well.
+- [This contrast checker](https://webaim.org/resources/contrastchecker/) built by WebAIM is one the most popular ways to compare the contrast directly between two colors.
+- Both [Chrome](https://developer.chrome.com/docs/devtools/accessibility/contrast/) and [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/) have built-in tools to evaluate a website and flag any inaccessible text found on it as well.
 
 There is a recurring theme when implementing accessible content: *simpler is almost always better*. Black text on a white background or white text on a black background will always meet these contrast requirements. That said, you're not restricted from doing something unique. Just ensure it meets the guidelines.
 

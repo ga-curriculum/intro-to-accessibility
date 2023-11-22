@@ -12,8 +12,8 @@ Mobility accommodations can help people with arthritis, Parkinson's, MS, quadrip
 
 Here are some way that we can improve accessibility for users with mobility disabilities:
 
-- Ensure buttons and links are large enough to be easily tapped with a finger or other pointing device. This is depicted above. Easy to tap elements should have a minimum surface area of 48px x 48px. 
-- Provide keyboard navigation. This allows users to navigate a website or app using only a keyboard. This option is critical for those who find it difficult to use a mouse or other pointing device. 
+- Ensure buttons and links are large enough to be easily tapped with a finger or other pointing device. This is depicted above. Easy to tap elements should have a minimum surface area of 48px x 48px.
+- Provide keyboard navigation. This allows users to navigate a website or app using only a keyboard. This option is critical for those who find it difficult to use a mouse or other pointing device.
 - Minimize interactions where users are required to click and drag items.
 - Use clear and consistent labels for all interactive elements. This will help users understand what each element does and how to interact with it, regardless of how they interact with the website. This can even help people who need to interact with your site using voice commands.
 - Implement responsive design. This will ensure that your website looks good and functions well on all devices, regardless of screen size.

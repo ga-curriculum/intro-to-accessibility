@@ -5,15 +5,10 @@
 Links from lessons:
 
 - [Four main accessibility principles](https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
-
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
-
 - [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
-- 
 - [Google Chrome Lighthouse extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
-
 - [Microsoft's Inclusivity Guidelines](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf)
-
 - [Writing Good Alt Text Video](https://www.youtube.com/watch?v=flf2vS0IoRs)
 
 ## Additional references
@@ -40,4 +35,4 @@ Lighthouse will display a report of any problems it finds, along with the severi
 
 ### [Microsoft's Inclusivity Guidelines](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf)
 
-This pdf is jam-packed with info about inclusivity and accessibility in design, although some of the content doesn't apply to software engineering. 
+This pdf is jam-packed with info about inclusivity and accessibility in design, although some of the content doesn't apply to software engineering.
