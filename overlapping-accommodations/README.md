@@ -6,13 +6,21 @@
 
 Many of the features we implement serve to accommodate individuals with multiple disabilities simultaneously.
 
+A great example of accessible web design is [Patanogia](https://www.patagonia.com/home/). This is a good website to come back to as we discuss some of the common mistakes when trying to accommodate multiple disabilities. 
+
+You can read about some of their efforts in this [Accessibility Statement](https://www.patagonia.com/web-accessibility.html). 
+
 ### Minimizing animation
 
 Animation can lead to cognitive overload, making it more challenging for individuals to interact with your site. Additionally, individuals with epilepsy or other photosensitive conditions can be sensitive to flashing lights, flickering images, or patterns. It's essential to consider these factors in your design to ensure that everyone can safely access your content.
 
-- Avoid using flashing lights, flickering images, or rapidly changing patterns in our app.
+- Avoid using flashing lights, flickering images, or rapidly changing patterns in our app. 
 - If your content includes extensive animation that isn't essential, provide an easy way for users to disable it.
 - Offer users the option to disable flashing lights and flickering images if needed.
+
+A good example of how distracting animation can be is [lingscars.com](https://www.lingscars.com/). 
+
+This is also clearly demonstrated on Yale's [publications](https://www.art.yale.edu/publications) and [about](https://www.art.yale.edu/about) pages. Note, however, that Yale's website has a prominently featured Pause/Play animation button, which conforms to good accessibility practice. 
 
 ### Keep it concise
 
@@ -28,3 +36,4 @@ Don't reinvent the wheel. The best solutions may not be flashy, complex, or nove
 - Ensure that all interactive elements behave predictably. For example, clicking a button should trigger an expected action.
 - Prioritize writing valid semantic HTML and CSS code to ensure the functionality of your website for all users.
 - Avoid relying on proprietary browser features. While experimental features may be interesting, they aren't very useful if they are not widely available to all users.
+
