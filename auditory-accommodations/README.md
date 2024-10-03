@@ -1,4 +1,7 @@
-# ![Intro to Accessibility - Auditory Accommodations](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Accessibility</span>
+  <span class="subhead">Auditory Accommodations</span>
+</h1>
 
 **Learning objective:** By the end of this lesson students will be able to accommodate users with auditory disabilities by implementing transcripts, closed captioning, and visual feedback.
 

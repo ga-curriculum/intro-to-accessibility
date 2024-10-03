@@ -1,4 +1,7 @@
-# ![Intro to Accessibility - Accessibility Principles](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Accessibility</span>
+  <span class="subhead">Accessibility Principles</span>
+</h1>
 
 **Learning objective:** By the end of this lesson students will be able to apply the four core principles of accessibility — perceivable, operable, understandable, and robust.
 

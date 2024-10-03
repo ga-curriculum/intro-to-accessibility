@@ -1,4 +1,7 @@
-# ![Intro to Accessibility - Level Up - Testing for Accessibility](./assets/hero-testing-for-accessibility.png)
+<h1>
+  <span class="headline">Intro to Accessibility</span>
+  <span class="subhead">Testing for Accessibility</span>
+</h1>
 
 **Learning objective:** By the end of this lesson students will be able to determine which accessibility testing methods should be employed to ensure digital products are accessible to all users.
 

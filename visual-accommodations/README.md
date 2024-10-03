@@ -1,4 +1,7 @@
-# ![Intro to Accessibility - Visual Accommodations](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Accessibility</span>
+  <span class="subhead">Visual Accommodations</span>
+</h1>
 
 **Learning objective:** By the end of this lesson students will be able to accommodate users with visual disabilities through the use of alternative text, color contrast, and non-color indicators.
 

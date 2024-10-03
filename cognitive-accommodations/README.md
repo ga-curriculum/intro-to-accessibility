@@ -1,4 +1,7 @@
-# ![Intro to Accessibility - Cognitive Accommodations](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Accessibility</span>
+  <span class="subhead">Cognitive Accommodations</span>
+</h1>
 
 **Learning objective:** By the end of this lesson students will be able to accommodate individuals with cognitive disabilities, focusing on clear language, simplified UI, and consistent design patterns.
 

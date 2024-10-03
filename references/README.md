@@ -1,4 +1,7 @@
-# ![Intro to Accessibility - References](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Accessibility</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
