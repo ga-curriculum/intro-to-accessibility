@@ -21,14 +21,14 @@ The module includes dedicated sections to comprehending and applying accommodati
 | [Cognitive Accommodations](../cognitive-accommodations/README.md)     |   8 min    | [Link](https://generalassembly.wistia.com/medias/cyvjhgcusa) | Inclusive design strategies: clear language, simplified UI, multi-modal content, explicit feedback, consistent design.    |
 | [Overlapping Accommodations](../overlapping-accommodations/README.md) |   4 min    | [Link](https://generalassembly.wistia.com/medias/zro995qmst) | Inclusive design strategies: minimizing animation, brevity in communication, and predictability in user interface design. |
 | [Accessibility Principles](../accessibility-principles/README.md)     |   5 min    | [Link](https://generalassembly.wistia.com/medias/xflifm6vmt) | Core accessibility principles: perceivable, operable, understandable, and robust.                                         |
-| **Total content**                                                     |   58 min   |                              --                              |                                                                                                                           |
+| **Total content**                                                     |   58 min   |                                                              |                                                                                                                           |
 
 ### Level Up content
 
-| Lesson                                                                | Video Time |                            Video                             | Skills                                                                |
-| --------------------------------------------------------------------- | :--------: | :----------------------------------------------------------: | --------------------------------------------------------------------- |
+| Lesson                                                              | Video Time |                            Video                             | Skills                                                                |
+| ------------------------------------------------------------------- | :--------: | :----------------------------------------------------------: | --------------------------------------------------------------------- |
 | [Testing for Accessibility](../testing-for-accessibility/README.md) |   9 min    | [Link](https://generalassembly.wistia.com/medias/d6w98xrnk5) | Accessibility testing: automated tools and manual evaluation methods. |
-| **Total Level Up content**                                            |   9 min    |                              --                              |                                                                       |
+| **Total Level Up content**                                          |   9 min    |                                                              |                                                                       |
 
 ## References
 
