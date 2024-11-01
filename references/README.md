@@ -1,8 +1,9 @@
-# ![Intro to Accessibility - References](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Accessibility</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
-
-Links from lessons:
 
 - [Four main accessibility principles](https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://www.boia.org/blog/what-are-the-four-major-categories-of-accessibility)

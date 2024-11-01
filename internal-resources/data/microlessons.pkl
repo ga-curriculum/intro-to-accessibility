@@ -1,0 +1,67 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+visualAccommodations = new Template.Microlesson {
+  friendlyName = "Visual Accommodations"
+  dirName = "visual-accommodations"
+  type = "Content"
+  videoUrl = ""
+}
+
+auditoryAccommodations = new Template.Microlesson {
+  friendlyName = "Auditory Accommodations"
+  dirName = "auditory-accommodations"
+  type = "Content"
+  videoUrl = ""
+}
+
+mobilityAccommodations = new Template.Microlesson {
+  friendlyName = "Mobility Accommodations"
+  dirName = "mobility-accommodations"
+  type = "Content"
+  videoUrl = ""
+}
+
+cognitiveAccommodations = new Template.Microlesson {
+  friendlyName = "Cognitive Accommodations"
+  dirName = "cognitive-accommodations"
+  type = "Content"
+  videoUrl = ""
+}
+
+overlappingAccommodations = new Template.Microlesson {
+  friendlyName = "Overlapping Accommodations"
+  dirName = "overlapping-accommodations"
+  type = "Content"
+  videoUrl = ""
+}
+
+accessibilityPrinciples = new Template.Microlesson {
+  friendlyName = "Accessibility Principles"
+  dirName = "accessibility-principles"
+  type = "Content"
+  videoUrl = ""
+}
+
+testingForAccessibility = new Template.Microlesson {
+  friendlyName = "Testing for Accessibility"
+  dirName = "testing-for-accessibility"
+  type = "Content"
+  videoUrl = ""
+}
+
